@@ -67,8 +67,6 @@ visibility: 'public',
 
 ---
 
-ヘルプが必要な場合は、次のリンクからお問い合わせください: [ディスカッションボードに投稿](https://github.com/orgs/skills/discussions/categories/test-with-actions) &bull; [GitHub ステータスページを確認](https://www.githubstatus.com/)
-
 &copy; 2023 GitHub &bull; [行動規範](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT ライセンス](https://gh.​​io/mit)
 
 </footer>
